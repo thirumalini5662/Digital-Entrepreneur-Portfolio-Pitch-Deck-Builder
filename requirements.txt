@@ -1,0 +1,7 @@
+streamlit
+pandas
+python-pptx
+openpyxl
+python-dotenv
+google-genai
+reportlab
